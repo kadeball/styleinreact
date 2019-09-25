@@ -1,0 +1,7 @@
+.Rectangle{
+    height: 100px;
+    width: 500px;
+    border: dashed orange 3px;
+    background-color: blue;
+    margin: 24px;
+}
