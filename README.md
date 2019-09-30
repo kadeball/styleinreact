@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# stylinginreact
+making colorful boxes
+[Styling in React](https://pages.github.iu.edu/kadeball/stylinginreact)
+>>>>>>> 9e06f97a1286b957491f26ecede883667a0c065d
