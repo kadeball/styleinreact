@@ -1,14 +1,10 @@
 import React from 'react';
 import Rectangle from "./components/Rectangle"
 import Block from "./components/Block"
+import Box from "./components/Box"
 import './App.css';
 
 function App() {
-
-    const box= {
-        color:"lime"
-    };
-
 
   return (
     <div className="App">
@@ -16,7 +12,11 @@ function App() {
       <Rectangle/>
       <Rectangle/>
 
-<Block></Block>
+      <Box/>
+
+<Block/>
+<Block/>
+<Block/>
 
 
 
