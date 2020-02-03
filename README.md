@@ -1,1 +1,1 @@
-[Styling in React](https://pages.github.iu.edu/kadeball/stylinginreact)
+[Styling in React](https://github.com/kadeball/styleinreact.git)
